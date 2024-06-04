@@ -1,5 +1,9 @@
-h1{
+h1 {
     padding: 2% 5%;
     background-color: red;
-    color:white;
+    color: white;
+}
+
+img {
+    width: 100%;
 }
